@@ -1,0 +1,6 @@
+
+Host github.com
+User git
+IdentityFile /home/developer/.ssh/strawsound_id_rsa
+StrictHostKeyChecking no
+
